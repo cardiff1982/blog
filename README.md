@@ -1,1 +1,1 @@
-# diplom_personal
+# blog_personal
